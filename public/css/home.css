@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main-header {
+    padding: 10px;
+    color: white;
+    background: #234999;
+}
+
+.main-header__title {
+    font-size: 2.4rem;
+    text-align: center;
+}
